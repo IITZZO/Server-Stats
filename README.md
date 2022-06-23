@@ -1,7 +1,7 @@
 # Server-Stats
 a Bot You can set a category to submite your server stats !
 
-Like This => https://cdn.discordapp.com/attachments/850635957035728940/989606494116913212/ssaa.PNG
+Like This => ![alt text]([http://url/to/img.png](https://cdn.discordapp.com/attachments/850635957035728940/989606494116913212/ssaa.PNG))
 
 
 # Installetion
