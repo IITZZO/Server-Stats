@@ -2,7 +2,11 @@
 a Bot You can set a category to submite your server stats !
 
 Like This => 
-<a href="https://uupload.ir/view/ssaa_c1z.png" target="_blank"><img src="https://s6.uupload.ir/files/ssaa_c1z_thumb.png" border="0" alt="آپلود عکس" /></a>
+- 
+- 
+- 
+- 
+- <a href="https://uupload.ir/view/ssaa_c1z.png" target="_blank"><img src="https://s6.uupload.ir/files/ssaa_c1z_thumb.png" border="0" alt="آپلود عکس" /></a>
 
 
 # Installetion
