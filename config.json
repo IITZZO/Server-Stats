@@ -1,0 +1,8 @@
+{
+    "token" : "Your Bot Token ",
+    "Guild_id" : "Your Server Id",
+    "ch_Member_id" : "Id of channel you want to set Count Member",
+    "ch_bot_id" : "Id of channel you want to set Count bot",
+    "status_id" : "Id of channel you want to set Count of online / dnd / idle members",
+    "catg_m_id" : "Id of categori you want to set count of online member"
+}
